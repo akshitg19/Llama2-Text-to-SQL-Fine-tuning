@@ -1,0 +1,12 @@
+# Core ML & Data Libraries
+torch
+transformers>=4.38.0
+datasets
+accelerate>=0.28.0
+bitsandbytes>=0.41.0
+peft>=0.9.0
+trl
+
+# API Server
+fastapi
+uvicorn
