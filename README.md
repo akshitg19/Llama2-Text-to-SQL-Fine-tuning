@@ -26,14 +26,15 @@ The core of this project is the implementation of memory-efficient training tech
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <repository-name>
+git clone https://github.com/akshitg19/Llama2-Text-to-SQL-Fine-tuning
+cd Llama2-Text-to-SQL-Fine-tuning
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  
+# On Windows, use `venv\Scripts\activate`
 ```
 
 ### 3. Install Dependencies
